@@ -5,7 +5,7 @@ module.exports = {
     title: 'Wenlan Wei',
     description:
       'Wenlan Wei is aim to build models and services with AI.',
-    siteUrl: 'https://wenlan.me/', // No trailing slash allowed!
+    siteUrl: 'https://wenlan.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@',
   },
