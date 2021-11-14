@@ -4,6 +4,7 @@ title: 'Code Graph'
 cover: './codegraph.png'
 github: 'https://github.com/weiwenlan/PYSA'
 external: 'https://weiwenlan.github.io/code-graph-test/'
+cta: ''
 tech:
   - Graphviz
   - Networkx
