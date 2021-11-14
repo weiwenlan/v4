@@ -1,16 +1,16 @@
 ---
-date: '4'
-title: 'Code Graph'
-cover: './codegraph.png'
-github: 'https://github.com/weiwenlan/PYSA'
-external: 'https://weiwenlan.github.io/code-graph-test/'
+date: '3'
+title: 'Garbage Classification with Robotic Arm'
+cover: './ic.jpg'
+github: 'https://github.com/weiwenlan/Trash-classification-robotic-arm'
+external: ''
 tech:
-  - Graphviz
-  - Networkx
-  - Python
-  - Tree sitter
+  - Robotic Arm
+  - Arduino
+  - Faster-RCNN
+  - Calibration
 ---
 
-A toolkit to parse and draw a code graph. The inner structure of the project is represented by a graph.
-Use this tool to parse any code you want to learn and summary.
+Classification of trash with a 3D Camera and a Robotic Arm. 
+Using the Faster-RCNN model, the trash is classified and the arm is calibrated to move to the trash.
 

@@ -1,6 +1,6 @@
 ---
 date: '4'
-title: 'VQA in Pathology Dataset'
+title: 'VQA in Pathology'
 cover: './VQA.png'
 github: ''
 external: 'https://paperswithcode.com/paper/towards-visual-question-answering-on'
