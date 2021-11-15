@@ -73,9 +73,9 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm run serve
    ```
 
-## 🎨 Color Reference
+## 🎨 Reference
 
-| Color          | Hex                                                                |
+|                | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
 | Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
 | Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
