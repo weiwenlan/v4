@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Pytorch',  'K8S', 'Arduino/Respberry Pi'];
+  const skills = ['Python', 'Pytorch', 'K8S', 'Arduino/Respberry Pi'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,14 +136,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            I am currently a Master Student at Cornell Tech University. 
-            My research interest is on computer vision and natural language processing 
-            to tackle challenges in real world. 
-
-
+              I am currently a Master Student at Cornell Tech University. My research interest is on
+              computer vision and natural language processing to tackle challenges in real world.
             </p>
-
-            
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
@@ -153,7 +148,7 @@ const About = () => {
           </ul>
         </StyledText>
 
-        {/* <StyledPic>
+        <StyledPic>
           <div className="wrapper">
             <StaticImage
               className="img"
@@ -164,7 +159,7 @@ const About = () => {
               alt="Headshot"
             />
           </div>
-        </StyledPic> */}
+        </StyledPic>
       </div>
     </StyledAboutSection>
   );
