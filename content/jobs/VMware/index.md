@@ -1,13 +1,12 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2020-8-25'
+title: 'China Undergraduate Intern'
+company: 'VMware'
+location: 'Beijing, China'
+range: 'Aug. - Nov. 2020'
+url: 'https://www.vmware.com/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Developed and shipped a web application for the [VMware Cloud Platform](https://cloud.vmware.com/) to generate CodeGraph and Summary information with BERT.
+- Built and shipped web applications to convert Latex table and equation images into markdown files and deploy them to the [VMware Cloud Platform](https://cloud.vmware.com/) with Kubernetes.
+- Contribute to a meeting summary service by converting a zoom meeting video into slides with cpations and time stamps.
