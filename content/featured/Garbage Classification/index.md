@@ -11,6 +11,5 @@ tech:
   - Calibration
 ---
 
-Classification of trash with a 3D Camera and a Robotic Arm. 
+Classification of trash with a 3D Camera and a Robotic Arm.
 Using the Faster-RCNN model, the trash is classified and the arm is calibrated to move to the trash.
-
