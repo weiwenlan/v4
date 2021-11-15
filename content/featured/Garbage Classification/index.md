@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Garbage Classification with Robotic Arm'
+title: 'Classification with Robotic Arm'
 cover: './ic.jpg'
 github: 'https://github.com/weiwenlan/Trash-classification-robotic-arm'
 external: ''
