@@ -63,20 +63,12 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things.</h3>;
   const four = (
     <>
-      <p>
-        A current Cornell Tech Student.
-        Intersted in Computer Vision and Natural Language Processing.
-
-       
-      </p>
+      <p>A current Cornell Tech Student.</p>
+      <p>Intersted in Computer Vision and Natural Language Processing.</p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="ww367@cornell.edu"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="ww367@cornell.edu" target="_blank" rel="noreferrer">
       Email me
     </a>
   );
